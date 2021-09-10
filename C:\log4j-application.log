@@ -1,0 +1,1223 @@
+2021-08-25 11:35:19 DEBUG Main:25 - This is a DEBUG log message
+2021-08-25 11:35:19 INFO  Main:26 - This is a info log message
+2021-08-25 11:35:19 WARN  Main:27 - This is a WARN log message
+2021-08-25 11:35:19 ERROR Main:28 - This is a ERROR log message
+2021-08-25 11:35:19 FATAL Main:29 - This is a FATAL log message
+2021-08-26 10:11:10 INFO  Main:29 - MySQL Driver Registered
+2021-08-26 10:18:56 INFO  Main:32 - MySQL Driver Registered
+2021-08-26 10:18:57 ERROR Main:38 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 273 milliseconds ago.  The last packet sent successfully to the server was 243 milliseconds ago.
+2021-08-26 10:20:58 INFO  Main:32 - MySQL Driver Registered
+2021-08-26 10:20:59 ERROR Main:38 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 308 milliseconds ago.  The last packet sent successfully to the server was 294 milliseconds ago.
+2021-08-26 10:27:05 INFO  Main:32 - MySQL Driver Registered
+2021-08-26 10:27:05 INFO  Main:44 - Successfully connected
+2021-08-26 10:28:20 INFO  Main:32 - MySQL Driver Registered
+2021-08-26 10:28:25 ERROR Main:39 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 10:28:33 INFO  Main:32 - MySQL Driver Registered
+2021-08-26 10:28:34 INFO  Main:44 - Successfully connected
+2021-08-26 10:32:00 INFO  Main:38 - MySQL Driver Registered
+2021-08-26 10:32:01 INFO  Main:50 - Successfully connected
+2021-08-26 11:00:48 INFO  Main:56 - MySQL Driver Registered
+2021-08-26 11:00:49 INFO  Main:68 - Successfully connected
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Daniel - LastName: Simmer
+2021-08-26 11:00:49 INFO  Main:31 - First Name: James - LastName: McRoberts
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Adrian - LastName: Ratnayake
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Eric - LastName: Begin
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Sean - LastName: Nilsen
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Betty - LastName: Smith
+2021-08-26 11:00:49 INFO  Main:31 - First Name: Bob - LastName: McBobbers
+2021-08-26 11:06:12 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:06:12 INFO  Main:71 - Successfully connected
+2021-08-26 11:06:12 INFO  Main:34 - Id: 1First Name: Daniel - LastName: Simmer
+2021-08-26 11:06:12 INFO  Main:34 - Id: 2First Name: James - LastName: McRoberts
+2021-08-26 11:06:12 INFO  Main:34 - Id: 3First Name: Adrian - LastName: Ratnayake
+2021-08-26 11:06:12 INFO  Main:34 - Id: 4First Name: Eric - LastName: Begin
+2021-08-26 11:06:12 INFO  Main:34 - Id: 5First Name: Sean - LastName: Nilsen
+2021-08-26 11:06:12 INFO  Main:34 - Id: 6First Name: Betty - LastName: Smith
+2021-08-26 11:06:12 INFO  Main:34 - Id: 8First Name: Bob - LastName: McBobbers
+2021-08-26 11:06:24 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:06:25 INFO  Main:71 - Successfully connected
+2021-08-26 11:06:25 INFO  Main:34 - Id: 1 First Name: Daniel - LastName: Simmer
+2021-08-26 11:06:25 INFO  Main:34 - Id: 2 First Name: James - LastName: McRoberts
+2021-08-26 11:06:25 INFO  Main:34 - Id: 3 First Name: Adrian - LastName: Ratnayake
+2021-08-26 11:06:25 INFO  Main:34 - Id: 4 First Name: Eric - LastName: Begin
+2021-08-26 11:06:25 INFO  Main:34 - Id: 5 First Name: Sean - LastName: Nilsen
+2021-08-26 11:06:25 INFO  Main:34 - Id: 6 First Name: Betty - LastName: Smith
+2021-08-26 11:06:25 INFO  Main:34 - Id: 8 First Name: Bob - LastName: McBobbers
+2021-08-26 11:11:14 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:11:18 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 11:31:25 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:31:29 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 11:31:44 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:31:48 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 11:32:26 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:32:26 INFO  Main:71 - Successfully connected
+2021-08-26 11:32:26 INFO  Main:34 - Id: 1 First Name: Daniel - LastName: Simmer
+2021-08-26 11:32:26 INFO  Main:34 - Id: 2 First Name: James - LastName: McRoberts
+2021-08-26 11:32:26 INFO  Main:34 - Id: 3 First Name: Adrian - LastName: Ratnayake
+2021-08-26 11:32:26 INFO  Main:34 - Id: 4 First Name: Eric - LastName: Begin
+2021-08-26 11:32:26 INFO  Main:34 - Id: 5 First Name: Sean - LastName: Nilsen
+2021-08-26 11:32:26 INFO  Main:34 - Id: 6 First Name: Betty - LastName: Smith
+2021-08-26 11:32:26 INFO  Main:34 - Id: 8 First Name: Bob - LastName: McBobbers
+2021-08-26 11:33:08 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:33:12 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 11:38:10 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 11:38:14 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:30:39 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:30:44 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:30:58 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:31:02 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:31:27 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:31:32 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:31:42 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:31:47 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:31:55 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:31:59 ERROR Main:66 - Connection failedcom.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2021-08-26 12:32:18 INFO  Main:59 - MySQL Driver Registered
+2021-08-26 12:32:18 INFO  Main:71 - Successfully connected
+2021-08-26 12:32:18 INFO  Main:34 - Id: 1 First Name: Daniel - LastName: Simmer
+2021-08-26 12:32:18 INFO  Main:34 - Id: 2 First Name: James - LastName: McRoberts
+2021-08-26 12:32:18 INFO  Main:34 - Id: 3 First Name: Adrian - LastName: Ratnayake
+2021-08-26 12:32:18 INFO  Main:34 - Id: 4 First Name: Eric - LastName: Begin
+2021-08-26 12:32:18 INFO  Main:34 - Id: 5 First Name: Sean - LastName: Nilsen
+2021-08-26 12:32:18 INFO  Main:34 - Id: 6 First Name: Betty - LastName: Smith
+2021-08-26 12:32:18 INFO  Main:34 - Id: 8 First Name: Bob - LastName: McBobbers
+2021-08-26 12:50:58 INFO  Main:84 - MySQL Driver Registered
+2021-08-26 12:50:59 INFO  Main:96 - Successfully connected
+2021-08-26 12:50:59 ERROR Main:43 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: PROCEDURE astonengineer.GetPerson does not exist
+2021-08-26 12:51:39 INFO  Main:84 - MySQL Driver Registered
+2021-08-26 12:51:39 INFO  Main:96 - Successfully connected
+2021-08-26 12:51:39 INFO  Main:39 -  First Name: Sean - LastName: Nilsen - Display First Name: Sean - Gender: M
+2021-08-26 12:53:41 INFO  Main:84 - MySQL Driver Registered
+2021-08-26 12:53:42 INFO  Main:96 - Successfully connected
+2021-08-26 12:53:42 ERROR Main:43 - java.sql.SQLException: No value specified for parameter 2
+2021-08-26 12:54:01 INFO  Main:84 - MySQL Driver Registered
+2021-08-26 12:54:02 INFO  Main:96 - Successfully connected
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Adrian - LastName: Ratnayake - Display First Name: Adrian - Gender: M
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Betty - LastName: Smith - Display First Name: Bets - Gender: F
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Bob - LastName: McBobbers - Display First Name: McB - Gender: M
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Daniel - LastName: Simmer - Display First Name: Dan - Gender: M
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Eric - LastName: Begin - Display First Name: Eric - Gender: M
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: James - LastName: McRoberts - Display First Name: James - Gender: M
+2021-08-26 12:54:02 INFO  Main:39 -  First Name: Sean - LastName: Nilsen - Display First Name: Sean - Gender: M
+2021-08-30 08:11:55 ERROR Main:36 - Postgres driver not founderjava.lang.ClassNotFoundException: com.postgresql.jdbc.Driver
+2021-08-30 08:13:41 ERROR Main:36 - Postgres driver not founderjava.lang.ClassNotFoundException: postgressql-42.2.23.jar
+2021-08-30 08:15:14 ERROR Main:40 - Connection failedorg.postgresql.util.PSQLException: FATAL: password authentication failed for user "postUser"
+2021-08-30 08:15:36 ERROR Main:40 - Connection failedorg.postgresql.util.PSQLException: FATAL: password authentication failed for user "postUser"
+2021-08-30 08:18:52 ERROR Main:38 - Connection failedorg.postgresql.util.PSQLException: FATAL: password authentication failed for user "postUser"
+2021-08-30 08:36:01 ERROR Main:38 - Connection failedorg.postgresql.util.PSQLException: FATAL: password authentication failed for user "postUser"
+2021-08-30 08:36:32 ERROR Main:38 - Connection failedorg.postgresql.util.PSQLException: FATAL: password authentication failed for user "postUser"
+2021-08-30 11:34:55 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 11:34:56 INFO  MySQL:40 - Successfully connected
+2021-08-30 13:04:16 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:04:16 INFO  MySQL:40 - Successfully connected
+2021-08-30 13:06:09 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:06:09 INFO  MySQL:40 - Successfully connected
+2021-08-30 13:13:06 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:13:07 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:13:07 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(20, 0)' at line 1
+2021-08-30 13:13:11 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:13:11 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:13:11 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(10, 1)' at line 1
+2021-08-30 13:15:57 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:15:58 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:15:58 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(20, 0)' at line 1
+2021-08-30 13:16:17 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:16:17 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:16:17 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(10, 2)' at line 1
+2021-08-30 13:17:46 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:17:46 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:17:46 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(20, 0)' at line 1
+2021-08-30 13:17:49 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:17:49 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:17:49 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call GetPerson(10, 1)' at line 1
+2021-08-30 13:19:39 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:19:40 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:19:40 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(20, 0)' at line 1
+2021-08-30 13:19:45 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:19:45 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:19:45 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(10, 1)' at line 1
+2021-08-30 13:27:16 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:27:17 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:27:17 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(20, 0))' at line 1
+2021-08-30 13:27:21 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:27:21 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:27:21 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(10, 1))' at line 1
+2021-08-30 13:42:57 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:42:58 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:42:58 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(20, 0)' at line 1
+2021-08-30 13:43:07 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:43:07 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:43:07 ERROR MySQL:47 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(10, 3)' at line 1
+2021-08-30 13:43:27 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:43:27 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:43:28 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(20, 0)' at line 1
+2021-08-30 13:52:10 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:52:10 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:52:10 ERROR MySQL:86 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 13:52:19 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:52:19 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:52:19 ERROR MySQL:47 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 13:52:53 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:52:54 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:52:54 ERROR MySQL:86 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 13:52:58 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 13:52:58 INFO  MySQL:39 - Successfully connected
+2021-08-30 13:52:58 ERROR MySQL:47 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:11:01 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:11:02 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:11:02 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:11:06 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:11:06 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:11:06 ERROR MySQL:48 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:12:09 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:12:09 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:12:09 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:12:14 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:12:14 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:12:14 ERROR MySQL:48 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:12:35 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:12:35 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:12:35 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:12:52 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:12:52 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:12:52 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:13:10 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:13:10 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:13:10 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:14:51 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:15:07 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:19:52 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:22:13 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:22:14 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:22:14 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:34:10 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:34:10 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:34:10 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:37:06 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:37:07 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:37:07 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:40:53 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:40:53 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:40:53 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:41:26 INFO  MySQL:29 - MySQL Driver Registered
+2021-08-30 14:41:26 INFO  MySQL:39 - Successfully connected
+2021-08-30 14:41:26 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 14:56:02 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-30 14:56:03 INFO  MySQL:46 - Successfully connected
+2021-08-30 14:56:03 ERROR MySQL:87 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 15:45:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-30 15:45:38 INFO  MySQL:46 - Successfully connected
+2021-08-30 15:45:38 ERROR MySQL:56 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-30 15:45:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-30 15:45:47 INFO  MySQL:46 - Successfully connected
+2021-08-30 15:45:47 ERROR MySQL:33 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call get_person(10, 1))' at line 1
+2021-08-31 07:43:41 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:43:42 INFO  MySQL:46 - Successfully connected
+2021-08-31 07:43:42 ERROR MySQL:56 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-31 07:43:52 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:43:52 INFO  MySQL:46 - Successfully connected
+2021-08-31 07:43:52 ERROR MySQL:33 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-31 07:48:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:48:39 INFO  MySQL:46 - Successfully connected
+2021-08-31 07:48:39 ERROR MySQL:56 - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+2021-08-31 07:54:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:54:11 INFO  MySQL:46 - Successfully connected
+2021-08-31 07:54:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:54:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 07:54:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 07:54:50 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:41:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:41:39 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:41:39 ERROR MySQL:86 - java.sql.SQLException: Parameter index out of range (3 > number of parameters, which is 2).
+2021-08-31 08:42:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:42:39 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:42:39 ERROR MySQL:86 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_person; expected 9, got 7
+2021-08-31 08:53:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:53:33 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:53:33 ERROR MySQL:85 - java.sql.SQLException: Parameter index out of range (8 > number of parameters, which is 7).
+2021-08-31 08:54:18 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:54:19 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:54:19 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '1969-12-31' for column 'CreateDate' at row 1
+2021-08-31 08:55:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:55:08 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:55:08 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '1969-12-31' for column 'CreateDate' at row 1
+2021-08-31 08:56:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 08:56:54 INFO  MySQL:46 - Successfully connected
+2021-08-31 08:56:54 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '1969-12-31' for column 'CreateDate' at row 1
+2021-08-31 09:39:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:39:50 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:39:50 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '3921-09-15' for column 'CreateDate' at row 1
+2021-08-31 09:44:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:44:05 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:44:05 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '3912-09-09' for column 'CreateDate' at row 1
+2021-08-31 09:48:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:48:33 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:48:33 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '08/09/2021' for column 'CreateDate' at row 1
+2021-08-31 09:52:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:52:33 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:52:33 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '3912-09-09' for column 'CreateDate' at row 1
+2021-08-31 09:53:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:53:20 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:53:20 ERROR MySQL:85 - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Incorrect datetime value: '3912-09-09' for column 'CreateDate' at row 1
+2021-08-31 09:55:13 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:55:14 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:59:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:59:20 INFO  MySQL:46 - Successfully connected
+2021-08-31 09:59:20 ERROR MySQL:117 - java.sql.SQLException: Parameter index out of range (3 > number of parameters, which is 2).
+2021-08-31 09:59:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 09:59:50 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:01:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:01:50 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:01:50 ERROR MySQL:143 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_person; expected 9, got 2
+2021-08-31 10:06:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:06:21 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:06:21 ERROR MySQL:143 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_person; expected 9, got 2
+2021-08-31 10:14:57 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:14:58 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:14:58 ERROR MySQL:143 - java.sql.SQLException: No value specified for parameter 3
+2021-08-31 10:17:51 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:17:52 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:17:52 ERROR MySQL:150 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-08-31 10:55:45 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:55:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:55:46 ERROR MySQL:55 - java.sql.SQLException: Invalid value for getInt() - 'Mr.'
+2021-08-31 10:58:45 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:58:45 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:58:45 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 10:58:52 ERROR MySQL:32 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.EmployeeId' in 'where clause'
+2021-08-31 10:59:08 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:59:08 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:59:08 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 10:59:11 ERROR MySQL:32 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.EmployeeId' in 'where clause'
+2021-08-31 10:59:27 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 10:59:28 INFO  MySQL:46 - Successfully connected
+2021-08-31 10:59:28 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 10:59:31 ERROR MySQL:32 - java.sql.SQLException: Bad format for DATE '1' in column 4.
+2021-08-31 11:01:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:01:08 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:01:08 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:01:10 ERROR MySQL:32 - java.sql.SQLException: Bad format for DATE '8' in column 4.
+2021-08-31 11:02:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:02:30 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:02:30 ERROR MySQL:55 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:02:40 ERROR MySQL:32 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:04:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:04:34 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:04:34 ERROR MySQL:55 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:04:46 ERROR MySQL:32 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:07:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:07:30 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:07:30 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:09:58 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:09:58 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:09:58 ERROR MySQL:55 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:11:52 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:11:52 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:11:52 ERROR MySQL:55 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:11:58 ERROR MySQL:32 - java.sql.SQLException: Column Index out of range, 5 > 4. 
+2021-08-31 11:20:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:20:11 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:20:11 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:20:29 ERROR MySQL:32 - java.sql.SQLException: Bad format for DATE '8' in column 4.
+2021-08-31 11:20:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:20:54 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:20:54 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:21:02 ERROR MySQL:32 - java.sql.SQLException: Bad format for DATE '6' in column 4.
+2021-08-31 11:27:13 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:27:14 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:27:14 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:31:51 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:31:51 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:31:51 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:39:16 ERROR MySQL:32 - java.sql.SQLException: Bad format for DATE '8' in column 4.
+2021-08-31 11:44:40 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:44:41 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:44:41 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:18 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:18 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:18 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:27 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:27 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:34 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:34 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:41 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:41 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:41 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:49 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:49 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:46:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:46:56 INFO  MySQL:46 - Successfully connected
+2021-08-31 11:46:57 ERROR MySQL:55 - java.sql.SQLException: Bad format for DATE '2' in column 4.
+2021-08-31 11:47:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 11:47:37 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:03:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:03:45 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:03:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:03:49 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:03:49 ERROR MySQL:35 - java.sql.SQLException: Invalid value for getInt() - 'McRoberts'
+2021-08-31 13:08:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:08:04 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:08:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:08:10 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:08:10 ERROR MySQL:35 - java.sql.SQLException: Invalid value for getInt() - 'McBobbers'
+2021-08-31 13:08:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:08:47 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:08:51 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:08:51 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:10:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:10:27 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:10:31 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:10:31 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:34:45 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:34:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 13:34:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 13:34:49 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:06:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:06:03 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:06:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:06:07 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:24:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:24:57 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:25:00 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:25:00 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:35:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:35:37 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:35:40 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:35:40 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:59:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:59:03 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:59:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:59:07 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:59:07 ERROR MySQL:32 - java.sql.SQLException: No value specified for parameter 2
+2021-08-31 15:59:43 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:59:43 INFO  MySQL:46 - Successfully connected
+2021-08-31 15:59:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 15:59:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:48:25 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:48:26 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:48:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:48:26 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:55:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:55:43 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:55:43 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:55:43 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:56:55 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:56:55 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:56:55 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:56:55 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:58:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:58:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 16:58:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 16:58:46 INFO  MySQL:46 - Successfully connected
+2021-08-31 17:00:24 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 17:00:25 INFO  MySQL:46 - Successfully connected
+2021-08-31 17:00:25 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 17:00:25 INFO  MySQL:46 - Successfully connected
+2021-08-31 17:06:16 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 17:06:17 INFO  MySQL:46 - Successfully connected
+2021-08-31 17:07:55 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 17:07:56 INFO  MySQL:46 - Successfully connected
+2021-08-31 17:07:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-08-31 17:07:56 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:52:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:52:11 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:52:11 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:52:11 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:53:17 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:53:17 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:55:21 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:55:22 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:55:22 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:55:22 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:56:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:56:51 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:56:51 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:56:51 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:57:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:57:10 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:57:10 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:57:10 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:58:16 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:58:16 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:58:16 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:58:16 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:58:16 ERROR MySQL:120 - java.sql.SQLException: No value specified for parameter 8
+2021-09-01 07:58:55 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:58:55 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:58:55 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:58:55 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:59:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:59:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 07:59:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 07:59:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:10:22 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:10:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:10:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:10:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:10:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:10:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:10:50 ERROR MySQL:153 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 08:22:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:22:26 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:22:31 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:22:31 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:35:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 08:35:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 08:35:30 ERROR MySQL:82 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_email; expected 5, got 4
+2021-09-01 08:58:47 INFO  Main:27 - SimpleName: com.astontech.bo.Employee
+2021-09-01 08:59:31 INFO  Main:27 - FullName: com.astontech.bo.Employee
+2021-09-01 08:59:31 INFO  Main:28 - SimpleName: Employee
+2021-09-01 09:02:58 INFO  Main:29 - FullName: com.astontech.bo.Employee
+2021-09-01 09:02:58 INFO  Main:30 - SimpleName: Employee
+2021-09-01 09:02:58 INFO  Main:32 - Field: EmployeeId Type: int
+2021-09-01 09:02:58 INFO  Main:32 - Field: HireDate Type: class java.util.Date
+2021-09-01 09:02:58 INFO  Main:32 - Field: TermDate Type: class java.util.Date
+2021-09-01 09:02:58 INFO  Main:32 - Field: BirthDate Type: class java.util.Date
+2021-09-01 09:02:58 INFO  Main:32 - Field: PersonId Type: int
+2021-09-01 09:02:58 INFO  Main:35 - Method: getEmployeeId
+2021-09-01 09:02:58 INFO  Main:35 - Method: getHireDate
+2021-09-01 09:02:58 INFO  Main:35 - Method: getBirthDate
+2021-09-01 09:02:58 INFO  Main:35 - Method: getPersonId
+2021-09-01 09:02:58 INFO  Main:35 - Method: setPersonId
+2021-09-01 09:02:58 INFO  Main:35 - Method: setEmployeeId
+2021-09-01 09:02:58 INFO  Main:35 - Method: setHireDate
+2021-09-01 09:02:58 INFO  Main:35 - Method: setTermDate
+2021-09-01 09:02:58 INFO  Main:35 - Method: getTermDate
+2021-09-01 09:02:58 INFO  Main:35 - Method: setBirthDate
+2021-09-01 09:04:13 INFO  Main:30 - FullName: Common.helpers.DateHelper
+2021-09-01 09:04:13 INFO  Main:31 - SimpleName: DateHelper
+2021-09-01 09:04:13 INFO  Main:36 - Method: utilDateToSQLDate
+2021-09-01 09:04:13 INFO  Main:36 - Method: sqlDateToJavaDate
+2021-09-01 09:05:18 INFO  Main:30 - FullName: java.util.ArrayList
+2021-09-01 09:05:18 INFO  Main:31 - SimpleName: ArrayList
+2021-09-01 09:05:18 INFO  Main:33 - Field: serialVersionUID Type: long
+2021-09-01 09:05:18 INFO  Main:33 - Field: DEFAULT_CAPACITY Type: int
+2021-09-01 09:05:18 INFO  Main:33 - Field: EMPTY_ELEMENTDATA Type: class [Ljava.lang.Object;
+2021-09-01 09:05:18 INFO  Main:33 - Field: DEFAULTCAPACITY_EMPTY_ELEMENTDATA Type: class [Ljava.lang.Object;
+2021-09-01 09:05:18 INFO  Main:33 - Field: elementData Type: class [Ljava.lang.Object;
+2021-09-01 09:05:18 INFO  Main:33 - Field: size Type: int
+2021-09-01 09:05:18 INFO  Main:33 - Field: MAX_ARRAY_SIZE Type: int
+2021-09-01 09:05:18 INFO  Main:36 - Method: elementData
+2021-09-01 09:05:18 INFO  Main:36 - Method: grow
+2021-09-01 09:05:18 INFO  Main:36 - Method: grow
+2021-09-01 09:05:18 INFO  Main:36 - Method: indexOfRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: lastIndexOfRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: elementAt
+2021-09-01 09:05:18 INFO  Main:36 - Method: equalsRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: equalsArrayList
+2021-09-01 09:05:18 INFO  Main:36 - Method: checkForComodification
+2021-09-01 09:05:18 INFO  Main:36 - Method: hashCodeRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: fastRemove
+2021-09-01 09:05:18 INFO  Main:36 - Method: shiftTailOverGap
+2021-09-01 09:05:18 INFO  Main:36 - Method: batchRemove
+2021-09-01 09:05:18 INFO  Main:36 - Method: nBits
+2021-09-01 09:05:18 INFO  Main:36 - Method: setBit
+2021-09-01 09:05:18 INFO  Main:36 - Method: isClear
+2021-09-01 09:05:18 INFO  Main:36 - Method: replaceAllRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: checkInvariants
+2021-09-01 09:05:18 INFO  Main:36 - Method: add
+2021-09-01 09:05:18 INFO  Main:36 - Method: add
+2021-09-01 09:05:18 INFO  Main:36 - Method: add
+2021-09-01 09:05:18 INFO  Main:36 - Method: remove
+2021-09-01 09:05:18 INFO  Main:36 - Method: remove
+2021-09-01 09:05:18 INFO  Main:36 - Method: get
+2021-09-01 09:05:18 INFO  Main:36 - Method: equals
+2021-09-01 09:05:18 INFO  Main:36 - Method: hashCode
+2021-09-01 09:05:18 INFO  Main:36 - Method: clone
+2021-09-01 09:05:18 INFO  Main:36 - Method: indexOf
+2021-09-01 09:05:18 INFO  Main:36 - Method: clear
+2021-09-01 09:05:18 INFO  Main:36 - Method: isEmpty
+2021-09-01 09:05:18 INFO  Main:36 - Method: lastIndexOf
+2021-09-01 09:05:18 INFO  Main:36 - Method: contains
+2021-09-01 09:05:18 INFO  Main:36 - Method: replaceAll
+2021-09-01 09:05:18 INFO  Main:36 - Method: size
+2021-09-01 09:05:18 INFO  Main:36 - Method: subList
+2021-09-01 09:05:18 INFO  Main:36 - Method: toArray
+2021-09-01 09:05:18 INFO  Main:36 - Method: toArray
+2021-09-01 09:05:18 INFO  Main:36 - Method: iterator
+2021-09-01 09:05:18 INFO  Main:36 - Method: spliterator
+2021-09-01 09:05:18 INFO  Main:36 - Method: addAll
+2021-09-01 09:05:18 INFO  Main:36 - Method: addAll
+2021-09-01 09:05:18 INFO  Main:36 - Method: set
+2021-09-01 09:05:18 INFO  Main:36 - Method: readObject
+2021-09-01 09:05:18 INFO  Main:36 - Method: writeObject
+2021-09-01 09:05:18 INFO  Main:36 - Method: forEach
+2021-09-01 09:05:18 INFO  Main:36 - Method: newCapacity
+2021-09-01 09:05:18 INFO  Main:36 - Method: ensureCapacity
+2021-09-01 09:05:18 INFO  Main:36 - Method: trimToSize
+2021-09-01 09:05:18 INFO  Main:36 - Method: hugeCapacity
+2021-09-01 09:05:18 INFO  Main:36 - Method: retainAll
+2021-09-01 09:05:18 INFO  Main:36 - Method: removeAll
+2021-09-01 09:05:18 INFO  Main:36 - Method: removeIf
+2021-09-01 09:05:18 INFO  Main:36 - Method: removeIf
+2021-09-01 09:05:18 INFO  Main:36 - Method: sort
+2021-09-01 09:05:18 INFO  Main:36 - Method: listIterator
+2021-09-01 09:05:18 INFO  Main:36 - Method: listIterator
+2021-09-01 09:05:18 INFO  Main:36 - Method: removeRange
+2021-09-01 09:05:18 INFO  Main:36 - Method: rangeCheckForAdd
+2021-09-01 09:05:18 INFO  Main:36 - Method: outOfBoundsMsg
+2021-09-01 09:05:18 INFO  Main:36 - Method: outOfBoundsMsg
+2021-09-01 09:12:34 INFO  Main:30 - FullName: com.astontech.bo.Employee
+2021-09-01 09:12:34 INFO  Main:31 - SimpleName: Employee
+2021-09-01 09:12:34 INFO  Main:33 - Field: EmployeeId Type: int
+2021-09-01 09:12:34 INFO  Main:33 - Field: HireDate Type: class java.util.Date
+2021-09-01 09:12:34 INFO  Main:33 - Field: TermDate Type: class java.util.Date
+2021-09-01 09:12:34 INFO  Main:33 - Field: BirthDate Type: class java.util.Date
+2021-09-01 09:12:34 INFO  Main:33 - Field: PersonId Type: int
+2021-09-01 09:12:34 INFO  Main:36 - Method: getEmployeeId
+2021-09-01 09:12:34 INFO  Main:36 - Method: getHireDate
+2021-09-01 09:12:34 INFO  Main:36 - Method: getBirthDate
+2021-09-01 09:12:34 INFO  Main:36 - Method: getPersonId
+2021-09-01 09:12:34 INFO  Main:36 - Method: setBirthDate
+2021-09-01 09:12:34 INFO  Main:36 - Method: setPersonId
+2021-09-01 09:12:34 INFO  Main:36 - Method: setTermDate
+2021-09-01 09:12:34 INFO  Main:36 - Method: getTermDate
+2021-09-01 09:12:34 INFO  Main:36 - Method: setEmployeeId
+2021-09-01 09:12:34 INFO  Main:36 - Method: setHireDate
+2021-09-01 11:23:27 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:23:27 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:23:27 ERROR MySQL:94 - java.sql.SQLException: Parameter index out of range (10 > number of parameters, which is 9).
+2021-09-01 11:24:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:24:49 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:24:49 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 11:42:41 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:42:42 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:42:42 ERROR MySQL:82 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: PROCEDURE astonengineer.execute_Make does not exist
+2021-09-01 11:42:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:42:42 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:42:42 ERROR MySQL:88 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: PROCEDURE astonengineer.execute_Model does not exist
+2021-09-01 11:42:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:42:42 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:42:42 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 11:43:28 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:43:29 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:43:29 ERROR MySQL:82 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_vehiclemake; expected 4, got 3
+2021-09-01 11:43:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:43:29 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:43:29 ERROR MySQL:88 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehiclemodel`, CONSTRAINT `FK_VehicleModel_VehicleMakeID` FOREIGN KEY (`VehicleMakeId`) REFERENCES `vehiclemake` (`VehicleMakeId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 11:43:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:43:29 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:43:29 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 11:45:05 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:45:05 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:45:06 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:45:06 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:45:06 ERROR MySQL:88 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehiclemodel`, CONSTRAINT `FK_VehicleModel_VehicleMakeID` FOREIGN KEY (`VehicleMakeId`) REFERENCES `vehiclemake` (`VehicleMakeId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 11:45:06 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 11:45:06 INFO  MySQL:46 - Successfully connected
+2021-09-01 11:45:06 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 12:07:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 12:07:32 INFO  MySQL:46 - Successfully connected
+2021-09-01 12:07:33 ERROR MySQL:89 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_vehicle; expected 10, got 16
+2021-09-01 12:08:27 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 12:08:27 INFO  MySQL:46 - Successfully connected
+2021-09-01 12:08:27 ERROR MySQL:89 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehiclemodel`, CONSTRAINT `FK_VehicleModel_VehicleMakeID` FOREIGN KEY (`VehicleMakeId`) REFERENCES `vehiclemake` (`VehicleMakeId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 12:51:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 12:51:47 INFO  MySQL:46 - Successfully connected
+2021-09-01 12:51:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 12:51:47 INFO  MySQL:46 - Successfully connected
+2021-09-01 12:51:47 ERROR MySQL:88 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehiclemodel`, CONSTRAINT `FK_VehicleModel_VehicleMakeID` FOREIGN KEY (`VehicleMakeId`) REFERENCES `vehiclemake` (`VehicleMakeId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 12:51:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 12:51:47 INFO  MySQL:46 - Successfully connected
+2021-09-01 12:51:47 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 13:10:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:10:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:10:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:10:24 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:10:24 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:10:24 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:10:24 ERROR MySQL:94 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`vehicle`, CONSTRAINT `FK_Vehicle_VehicleModelId` FOREIGN KEY (`VehicleModelId`) REFERENCES `vehiclemodel` (`VehicleModelId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-01 13:17:24 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:17:25 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:17:25 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:17:25 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:34:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:34:54 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:34:54 ERROR MySQL:111 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'VehicleMakeId' in 'where clause'
+2021-09-01 13:38:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:38:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:38:04 ERROR MySQL:111 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.VehicleMakeId' in 'where clause'
+2021-09-01 13:38:35 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:38:36 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:38:36 ERROR MySQL:111 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.VehicleMakeId' in 'where clause'
+2021-09-01 13:39:13 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:39:13 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:41:45 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:41:46 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:43:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:43:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:43:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:43:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:46:22 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:46:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:46:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:46:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:47:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:47:07 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:47:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:47:07 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:47:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:47:38 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:47:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:47:38 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:48:08 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:48:09 INFO  MySQL:46 - Successfully connected
+2021-09-01 13:48:09 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 13:48:09 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:19:02 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:19:02 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:19:02 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:19:02 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:24:57 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:24:58 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:24:58 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:24:58 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:26:58 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:26:59 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:26:59 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:26:59 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:27:35 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:27:35 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:27:35 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:27:35 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:29:51 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:29:52 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:29:52 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:29:52 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:39:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:39:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:39:39 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:39:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:39:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:39:55 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:42:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:42:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:42:39 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:42:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:43:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:43:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:43:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:43:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:43:50 ERROR MySQL:138 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 15:43:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:43:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:47:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:47:42 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:47:42 ERROR MySQL:138 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 15:48:17 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:48:17 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:50:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:50:42 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:51:27 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:51:28 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:51:28 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:51:28 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:53:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:53:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:55:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:55:29 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:55:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:55:29 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:56:22 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:56:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:56:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:56:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:56:23 ERROR MySQL:138 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 15:56:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 15:56:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 15:56:23 ERROR MySQL:138 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 16:00:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:00:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:00:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:00:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:00:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:00:30 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:01:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:01:26 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:03:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:03:51 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:04:24 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:04:25 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:16:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:16:48 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:16:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:16:48 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:23:09 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:23:10 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:25:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:25:07 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:25:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:25:07 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:25:31 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:25:31 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:25:31 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:27:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:27:56 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:27:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:27:56 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:27:56 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:27:56 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:29:21 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:29:21 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:29:21 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:29:21 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:29:21 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:29:21 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:31:47 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:31:48 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:31:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:31:48 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:31:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:31:48 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:35:35 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:35:36 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:35:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:35:36 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:35:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:35:36 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:35:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:35:36 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:38:00 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:38:01 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:38:01 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:38:01 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:38:01 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:38:01 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:40:22 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:40:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:40:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:40:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:40:23 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:40:23 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:41:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:41:33 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:41:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:41:33 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:41:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:41:33 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:41:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:41:33 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:42:25 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:42:26 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:42:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:42:26 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:42:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:42:26 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:43:45 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:43:46 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:43:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:43:46 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:43:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:43:46 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:43:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:43:46 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:48:34 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:48:34 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:48:34 ERROR MySQL:154 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-01 16:55:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:55:03 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:55:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:55:03 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:56:24 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:56:25 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:56:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:56:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:56:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:56:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 16:56:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 16:56:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:04 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:02:50 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:02:50 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:04:39 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:04:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:04:39 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:04:39 INFO  MySQL:46 - Successfully connected
+2021-09-01 17:04:39 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-01 17:04:39 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:11:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:11:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:20:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:20:34 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:20:34 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:20:34 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:21:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:21:36 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:21:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:21:36 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:23:01 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:23:01 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:23:01 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:23:01 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:25:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:25:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:25:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:25:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:26:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:26:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:26:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:26:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:27:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:27:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:27:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:27:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:28:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:28:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:28:33 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:28:33 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:30:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:30:46 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:30:46 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:30:46 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:31:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:31:27 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:31:27 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:31:27 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:32:12 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:32:13 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:32:13 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:32:13 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:34:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:34:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:34:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:34:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:35:18 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:35:18 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:35:18 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:35:18 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:35:18 ERROR MySQL:93 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_employee; expected 7, got 6
+2021-09-02 10:36:48 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:36:49 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:36:49 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:36:49 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:36:49 ERROR MySQL:93 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect number of arguments for PROCEDURE astonengineer.execute_employee; expected 7, got 6
+2021-09-02 10:37:01 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:37:02 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:37:02 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:37:02 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:37:02 ERROR MySQL:93 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`astonengineer`.`employee`, CONSTRAINT `FK_Employee_PeronsID` FOREIGN KEY (`PersonId`) REFERENCES `person` (`PersonId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-02 10:40:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:40:19 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:40:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:40:19 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:40:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:40:19 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:50:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:50:07 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:50:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:50:07 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:50:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:50:07 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:50:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:50:07 INFO  MySQL:46 - Successfully connected
+2021-09-02 10:50:07 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 10:50:07 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:43 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:01:44 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:01:44 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:07:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:07:37 ERROR MySQL:123 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.vEmailId' in 'field list'
+2021-09-02 11:08:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:19 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:19 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:19 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:20 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:20 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:20 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:20 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:20 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:20 ERROR MySQL:123 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.vEmailId' in 'field list'
+2021-09-02 11:08:36 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:37 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:37 ERROR MySQL:123 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'a.EntityTypeIdNumber' in 'field list'
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:08:54 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:08:54 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:37 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:11:38 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:11:38 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:31 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:15:32 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:15:32 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:42 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:42 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:43 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:17:43 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:17:43 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:52 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:19:53 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:19:53 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:25 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:21:26 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:21:26 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:03 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:03 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:03 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:03 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:03 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:04 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:04 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:04 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:24:04 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:24:04 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:25:30 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:25:30 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:28 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 ERROR MySQL:160 - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`astonengineer`.`email`, CONSTRAINT `FK_Email_EmployeeId` FOREIGN KEY (`EmployeeId`) REFERENCES `employee` (`EmployeeId`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 ERROR MySQL:154 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-02 11:28:29 INFO  MySQL:36 - MySQL Driver Registered
+2021-09-02 11:28:29 INFO  MySQL:46 - Successfully connected
+2021-09-02 11:28:29 ERROR MySQL:172 - java.sql.SQLException: ResultSet is from UPDATE. No Data.
+2021-09-02 13:26:20 INFO  Main:45 - FullName: java.lang.Integer
+2021-09-02 13:26:20 INFO  Main:46 - SimpleName: Integer
+2021-09-02 13:26:20 INFO  Main:48 - Field: MIN_VALUE Type: int
+2021-09-02 13:26:20 INFO  Main:48 - Field: MAX_VALUE Type: int
+2021-09-02 13:26:20 INFO  Main:48 - Field: TYPE Type: class java.lang.Class
+2021-09-02 13:26:20 INFO  Main:48 - Field: digits Type: class [C
+2021-09-02 13:26:20 INFO  Main:48 - Field: DigitTens Type: class [B
+2021-09-02 13:26:20 INFO  Main:48 - Field: DigitOnes Type: class [B
+2021-09-02 13:26:20 INFO  Main:48 - Field: sizeTable Type: class [I
+2021-09-02 13:26:20 INFO  Main:48 - Field: value Type: int
+2021-09-02 13:26:20 INFO  Main:48 - Field: SIZE Type: int
+2021-09-02 13:26:20 INFO  Main:48 - Field: BYTES Type: int
+2021-09-02 13:26:20 INFO  Main:48 - Field: serialVersionUID Type: long
+2021-09-02 13:26:20 INFO  Main:51 - Method: numberOfLeadingZeros
+2021-09-02 13:26:20 INFO  Main:51 - Method: numberOfTrailingZeros
+2021-09-02 13:26:20 INFO  Main:51 - Method: bitCount
+2021-09-02 13:26:20 INFO  Main:51 - Method: equals
+2021-09-02 13:26:20 INFO  Main:51 - Method: toString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toString
+2021-09-02 13:26:20 INFO  Main:51 - Method: hashCode
+2021-09-02 13:26:20 INFO  Main:51 - Method: hashCode
+2021-09-02 13:26:20 INFO  Main:51 - Method: min
+2021-09-02 13:26:20 INFO  Main:51 - Method: max
+2021-09-02 13:26:20 INFO  Main:51 - Method: reverseBytes
+2021-09-02 13:26:20 INFO  Main:51 - Method: getChars
+2021-09-02 13:26:20 INFO  Main:51 - Method: compareTo
+2021-09-02 13:26:20 INFO  Main:51 - Method: compareTo
+2021-09-02 13:26:20 INFO  Main:51 - Method: byteValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: shortValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: intValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: longValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: floatValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: doubleValue
+2021-09-02 13:26:20 INFO  Main:51 - Method: valueOf
+2021-09-02 13:26:20 INFO  Main:51 - Method: valueOf
+2021-09-02 13:26:20 INFO  Main:51 - Method: valueOf
+2021-09-02 13:26:20 INFO  Main:51 - Method: toHexString
+2021-09-02 13:26:20 INFO  Main:51 - Method: decode
+2021-09-02 13:26:20 INFO  Main:51 - Method: compare
+2021-09-02 13:26:20 INFO  Main:51 - Method: reverse
+2021-09-02 13:26:20 INFO  Main:51 - Method: stringSize
+2021-09-02 13:26:20 INFO  Main:51 - Method: toUnsignedLong
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: sum
+2021-09-02 13:26:20 INFO  Main:51 - Method: compareUnsigned
+2021-09-02 13:26:20 INFO  Main:51 - Method: toStringUTF16
+2021-09-02 13:26:20 INFO  Main:51 - Method: toUnsignedString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toUnsignedString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toOctalString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toBinaryString
+2021-09-02 13:26:20 INFO  Main:51 - Method: toUnsignedString0
+2021-09-02 13:26:20 INFO  Main:51 - Method: formatUnsignedInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: formatUnsignedInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: formatUnsignedIntUTF16
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseUnsignedInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseUnsignedInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: parseUnsignedInt
+2021-09-02 13:26:20 INFO  Main:51 - Method: getInteger
+2021-09-02 13:26:20 INFO  Main:51 - Method: getInteger
+2021-09-02 13:26:20 INFO  Main:51 - Method: getInteger
+2021-09-02 13:26:20 INFO  Main:51 - Method: divideUnsigned
+2021-09-02 13:26:20 INFO  Main:51 - Method: remainderUnsigned
+2021-09-02 13:26:20 INFO  Main:51 - Method: highestOneBit
+2021-09-02 13:26:20 INFO  Main:51 - Method: lowestOneBit
+2021-09-02 13:26:20 INFO  Main:51 - Method: rotateLeft
+2021-09-02 13:26:20 INFO  Main:51 - Method: rotateRight
+2021-09-02 13:26:20 INFO  Main:51 - Method: signum
+2021-09-02 13:26:20 INFO  Main:41 - 10
+2021-09-02 14:01:34 INFO  MySQL:67 - MySQL Driver Registered
+2021-09-02 14:01:35 INFO  MySQL:77 - Successfully connected
+2021-09-02 14:01:35 INFO  Main:42 - Object serialized and written to file
+2021-09-02 14:14:55 INFO  MySQL:67 - MySQL Driver Registered
+2021-09-02 14:14:56 INFO  MySQL:77 - Successfully connected
+2021-09-02 14:14:56 INFO  Main:41 - Object serialized and written to file
+2021-09-02 14:15:13 INFO  Main:65 - personId: 1 Full Name: Daniel Simmer Date of Birth: nullGender:M.
